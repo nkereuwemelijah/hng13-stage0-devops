@@ -8,7 +8,7 @@ This project sets up and deploys an **NGINX web server** that serves a **custom 
 The goal is to demonstrate basic DevOps skills — including server setup, deployment, and managing a github repository just like a real whorld DevOps environment.
 
 ## Server IP / Domain
-*(Add this after deployment)*
+*(http://54.242.188.189/)*
 
 ## Technologies Used
 - Ubuntu Server 
